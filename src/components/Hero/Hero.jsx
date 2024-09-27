@@ -7,7 +7,6 @@ const Hero = () => {
         <h3>Start up</h3>
         <h1>Forget about Code</h1>
         <p>
-        
           Startup Framework gives you complete freedom over your creative <br />
           process — you don’t have to think about any technical aspects. <br />
           There are no limits and absolutely no coding. </p>
