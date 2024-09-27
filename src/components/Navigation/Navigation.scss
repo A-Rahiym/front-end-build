@@ -1,0 +1,21 @@
+.nav-link-container{
+    display: flex;
+    width: 100%;
+    margin-top: 3rem;
+    justify-content: center;
+    margin-right: 25rem;
+    box-sizing: border-box;
+    .nav-links{
+        display:flex;
+        flex-direction:row;
+        align-items: center;
+        justify-content: space-around;
+
+        a{
+            font-size: 1.2rem;
+            margin-right: 2rem;
+        }
+    } 
+}
+
+
